@@ -1,0 +1,1 @@
+java -jar Main_game-1.0-SNAPSHOT.jar
